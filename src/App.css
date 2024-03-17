@@ -1,0 +1,14 @@
+@import "../node_modules/leaflet/dist/leaflet.css";
+
+
+
+
+/* .App {
+  text-align: center;
+  height: 100vh; /* Ensure the parent has a defined height */
+
+/* Add if you haven't defined specific styles for your map container */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
